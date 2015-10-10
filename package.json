@@ -13,7 +13,8 @@
   "author": "@drewcovi",
   "license": "MIT",
   "dependencies": {
-    "broccoli-stylus-single": "^0.4.1"
+    "broccoli-stylus-single": "^0.4.1",
+    "stylus": "*"
   },
   "repository": {
     "type": "git",
